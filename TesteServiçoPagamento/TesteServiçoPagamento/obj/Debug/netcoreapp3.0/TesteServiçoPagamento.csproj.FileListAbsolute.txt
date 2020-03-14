@@ -1,0 +1,11 @@
+C:\Users\gabri\source\repos\TesteServiçoPagamento\TesteServiçoPagamento\bin\Debug\netcoreapp3.0\TesteServiçoPagamento.exe
+C:\Users\gabri\source\repos\TesteServiçoPagamento\TesteServiçoPagamento\bin\Debug\netcoreapp3.0\TesteServiçoPagamento.deps.json
+C:\Users\gabri\source\repos\TesteServiçoPagamento\TesteServiçoPagamento\bin\Debug\netcoreapp3.0\TesteServiçoPagamento.runtimeconfig.json
+C:\Users\gabri\source\repos\TesteServiçoPagamento\TesteServiçoPagamento\bin\Debug\netcoreapp3.0\TesteServiçoPagamento.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\TesteServiçoPagamento\TesteServiçoPagamento\bin\Debug\netcoreapp3.0\TesteServiçoPagamento.dll
+C:\Users\gabri\source\repos\TesteServiçoPagamento\TesteServiçoPagamento\bin\Debug\netcoreapp3.0\TesteServiçoPagamento.pdb
+C:\Users\gabri\source\repos\TesteServiçoPagamento\TesteServiçoPagamento\obj\Debug\netcoreapp3.0\TesteServiçoPagamento.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\TesteServiçoPagamento\TesteServiçoPagamento\obj\Debug\netcoreapp3.0\TesteServiçoPagamento.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\TesteServiçoPagamento\TesteServiçoPagamento\obj\Debug\netcoreapp3.0\TesteServiçoPagamento.AssemblyInfo.cs
+C:\Users\gabri\source\repos\TesteServiçoPagamento\TesteServiçoPagamento\obj\Debug\netcoreapp3.0\TesteServiçoPagamento.dll
+C:\Users\gabri\source\repos\TesteServiçoPagamento\TesteServiçoPagamento\obj\Debug\netcoreapp3.0\TesteServiçoPagamento.pdb

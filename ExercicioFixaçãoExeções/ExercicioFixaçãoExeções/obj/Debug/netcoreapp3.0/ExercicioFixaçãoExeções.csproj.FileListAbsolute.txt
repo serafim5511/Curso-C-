@@ -1,0 +1,11 @@
+C:\Users\gabri\source\repos\ExercicioFixaçãoExeções\ExercicioFixaçãoExeções\bin\Debug\netcoreapp3.0\ExercicioFixaçãoExeções.exe
+C:\Users\gabri\source\repos\ExercicioFixaçãoExeções\ExercicioFixaçãoExeções\bin\Debug\netcoreapp3.0\ExercicioFixaçãoExeções.deps.json
+C:\Users\gabri\source\repos\ExercicioFixaçãoExeções\ExercicioFixaçãoExeções\bin\Debug\netcoreapp3.0\ExercicioFixaçãoExeções.runtimeconfig.json
+C:\Users\gabri\source\repos\ExercicioFixaçãoExeções\ExercicioFixaçãoExeções\bin\Debug\netcoreapp3.0\ExercicioFixaçãoExeções.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\ExercicioFixaçãoExeções\ExercicioFixaçãoExeções\bin\Debug\netcoreapp3.0\ExercicioFixaçãoExeções.dll
+C:\Users\gabri\source\repos\ExercicioFixaçãoExeções\ExercicioFixaçãoExeções\bin\Debug\netcoreapp3.0\ExercicioFixaçãoExeções.pdb
+C:\Users\gabri\source\repos\ExercicioFixaçãoExeções\ExercicioFixaçãoExeções\obj\Debug\netcoreapp3.0\ExercicioFixaçãoExeções.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\ExercicioFixaçãoExeções\ExercicioFixaçãoExeções\obj\Debug\netcoreapp3.0\ExercicioFixaçãoExeções.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ExercicioFixaçãoExeções\ExercicioFixaçãoExeções\obj\Debug\netcoreapp3.0\ExercicioFixaçãoExeções.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ExercicioFixaçãoExeções\ExercicioFixaçãoExeções\obj\Debug\netcoreapp3.0\ExercicioFixaçãoExeções.dll
+C:\Users\gabri\source\repos\ExercicioFixaçãoExeções\ExercicioFixaçãoExeções\obj\Debug\netcoreapp3.0\ExercicioFixaçãoExeções.pdb

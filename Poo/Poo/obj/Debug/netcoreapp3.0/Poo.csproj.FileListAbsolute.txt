@@ -1,0 +1,11 @@
+C:\Users\gabri\source\repos\Poo\Poo\obj\Debug\netcoreapp3.0\Poo.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Poo\Poo\obj\Debug\netcoreapp3.0\Poo.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Poo\Poo\obj\Debug\netcoreapp3.0\Poo.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Poo\Poo\bin\Debug\netcoreapp3.0\Poo.exe
+C:\Users\gabri\source\repos\Poo\Poo\bin\Debug\netcoreapp3.0\Poo.deps.json
+C:\Users\gabri\source\repos\Poo\Poo\bin\Debug\netcoreapp3.0\Poo.runtimeconfig.json
+C:\Users\gabri\source\repos\Poo\Poo\bin\Debug\netcoreapp3.0\Poo.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\Poo\Poo\bin\Debug\netcoreapp3.0\Poo.dll
+C:\Users\gabri\source\repos\Poo\Poo\bin\Debug\netcoreapp3.0\Poo.pdb
+C:\Users\gabri\source\repos\Poo\Poo\obj\Debug\netcoreapp3.0\Poo.dll
+C:\Users\gabri\source\repos\Poo\Poo\obj\Debug\netcoreapp3.0\Poo.pdb

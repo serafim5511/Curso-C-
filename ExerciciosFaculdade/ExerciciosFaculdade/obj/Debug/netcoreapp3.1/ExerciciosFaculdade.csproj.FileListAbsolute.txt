@@ -1,0 +1,11 @@
+C:\Users\gabri\source\repos\ExerciciosFaculdade\ExerciciosFaculdade\obj\Debug\netcoreapp3.1\ExerciciosFaculdade.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\ExerciciosFaculdade\ExerciciosFaculdade\obj\Debug\netcoreapp3.1\ExerciciosFaculdade.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ExerciciosFaculdade\ExerciciosFaculdade\obj\Debug\netcoreapp3.1\ExerciciosFaculdade.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ExerciciosFaculdade\ExerciciosFaculdade\bin\Debug\netcoreapp3.1\ExerciciosFaculdade.exe
+C:\Users\gabri\source\repos\ExerciciosFaculdade\ExerciciosFaculdade\bin\Debug\netcoreapp3.1\ExerciciosFaculdade.deps.json
+C:\Users\gabri\source\repos\ExerciciosFaculdade\ExerciciosFaculdade\bin\Debug\netcoreapp3.1\ExerciciosFaculdade.runtimeconfig.json
+C:\Users\gabri\source\repos\ExerciciosFaculdade\ExerciciosFaculdade\bin\Debug\netcoreapp3.1\ExerciciosFaculdade.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\ExerciciosFaculdade\ExerciciosFaculdade\bin\Debug\netcoreapp3.1\ExerciciosFaculdade.dll
+C:\Users\gabri\source\repos\ExerciciosFaculdade\ExerciciosFaculdade\bin\Debug\netcoreapp3.1\ExerciciosFaculdade.pdb
+C:\Users\gabri\source\repos\ExerciciosFaculdade\ExerciciosFaculdade\obj\Debug\netcoreapp3.1\ExerciciosFaculdade.dll
+C:\Users\gabri\source\repos\ExerciciosFaculdade\ExerciciosFaculdade\obj\Debug\netcoreapp3.1\ExerciciosFaculdade.pdb

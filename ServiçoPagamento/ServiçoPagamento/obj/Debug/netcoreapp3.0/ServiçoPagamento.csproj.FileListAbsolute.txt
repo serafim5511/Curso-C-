@@ -1,0 +1,11 @@
+C:\Users\gabri\source\repos\ServiçoPagamento\ServiçoPagamento\bin\Debug\netcoreapp3.0\ServiçoPagamento.exe
+C:\Users\gabri\source\repos\ServiçoPagamento\ServiçoPagamento\bin\Debug\netcoreapp3.0\ServiçoPagamento.deps.json
+C:\Users\gabri\source\repos\ServiçoPagamento\ServiçoPagamento\bin\Debug\netcoreapp3.0\ServiçoPagamento.runtimeconfig.json
+C:\Users\gabri\source\repos\ServiçoPagamento\ServiçoPagamento\bin\Debug\netcoreapp3.0\ServiçoPagamento.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\ServiçoPagamento\ServiçoPagamento\bin\Debug\netcoreapp3.0\ServiçoPagamento.dll
+C:\Users\gabri\source\repos\ServiçoPagamento\ServiçoPagamento\bin\Debug\netcoreapp3.0\ServiçoPagamento.pdb
+C:\Users\gabri\source\repos\ServiçoPagamento\ServiçoPagamento\obj\Debug\netcoreapp3.0\ServiçoPagamento.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\ServiçoPagamento\ServiçoPagamento\obj\Debug\netcoreapp3.0\ServiçoPagamento.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ServiçoPagamento\ServiçoPagamento\obj\Debug\netcoreapp3.0\ServiçoPagamento.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ServiçoPagamento\ServiçoPagamento\obj\Debug\netcoreapp3.0\ServiçoPagamento.dll
+C:\Users\gabri\source\repos\ServiçoPagamento\ServiçoPagamento\obj\Debug\netcoreapp3.0\ServiçoPagamento.pdb

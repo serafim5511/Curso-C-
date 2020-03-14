@@ -1,0 +1,11 @@
+C:\Users\gabri\source\repos\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.exe
+C:\Users\gabri\source\repos\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.deps.json
+C:\Users\gabri\source\repos\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.runtimeconfig.json
+C:\Users\gabri\source\repos\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.dll
+C:\Users\gabri\source\repos\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.pdb
+C:\Users\gabri\source\repos\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.AssemblyInfo.cs
+C:\Users\gabri\source\repos\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.dll
+C:\Users\gabri\source\repos\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.pdb

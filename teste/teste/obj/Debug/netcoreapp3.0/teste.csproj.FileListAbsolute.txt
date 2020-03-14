@@ -1,0 +1,11 @@
+C:\Users\gabri\source\repos\teste\teste\bin\Debug\netcoreapp3.0\teste.exe
+C:\Users\gabri\source\repos\teste\teste\bin\Debug\netcoreapp3.0\teste.deps.json
+C:\Users\gabri\source\repos\teste\teste\bin\Debug\netcoreapp3.0\teste.runtimeconfig.json
+C:\Users\gabri\source\repos\teste\teste\bin\Debug\netcoreapp3.0\teste.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\teste\teste\bin\Debug\netcoreapp3.0\teste.dll
+C:\Users\gabri\source\repos\teste\teste\bin\Debug\netcoreapp3.0\teste.pdb
+C:\Users\gabri\source\repos\teste\teste\obj\Debug\netcoreapp3.0\teste.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\teste\teste\obj\Debug\netcoreapp3.0\teste.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\teste\teste\obj\Debug\netcoreapp3.0\teste.AssemblyInfo.cs
+C:\Users\gabri\source\repos\teste\teste\obj\Debug\netcoreapp3.0\teste.dll
+C:\Users\gabri\source\repos\teste\teste\obj\Debug\netcoreapp3.0\teste.pdb

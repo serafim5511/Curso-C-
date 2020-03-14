@@ -1,0 +1,3 @@
+C:\Users\gabri\source\repos\CodeCademy\CodeCademy\obj\Debug\netcoreapp3.0\CodeCademy.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\CodeCademy\CodeCademy\obj\Debug\netcoreapp3.0\CodeCademy.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\CodeCademy\CodeCademy\obj\Debug\netcoreapp3.0\CodeCademy.AssemblyInfo.cs
